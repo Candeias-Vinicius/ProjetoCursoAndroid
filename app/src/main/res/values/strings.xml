@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Horizon App</string>
+    <string name="digite_nome">Insira o nome</string>
+    <string name="digite_idade">Insira a idade</string>
+    <string name="digite_tempertura">Insira a Temperatura corporal</string>
+    <string name="digite_periodo_tosse">Periodo com tosse (Em Dias)</string>
+    <string name="digite_periodo_dor_de_capeca">Periodo com dor de cabeça  (Em dias)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
